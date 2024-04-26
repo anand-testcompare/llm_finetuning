@@ -4,3 +4,5 @@ setuptools
 pandas
 python-dotenv
 langchain
+dspy-ai
+openai

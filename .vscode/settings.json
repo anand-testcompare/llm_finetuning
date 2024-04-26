@@ -1,0 +1,8 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.autoImportCompletions": true,
+    "notebook.codeActionsOnSave": {
+
+    },
+    "python.autoComplete.extraPaths": []
+}
